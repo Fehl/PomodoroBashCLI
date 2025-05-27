@@ -1,6 +1,6 @@
 # Pomodoro Timer (Bash)
 
-A simple Pomodoro timer written in BAsh for Linux/macOS/WSL users
+A simple Pomodoro timer written in Bash for Linux/macOS/WSL users
 
 ## Features
 
